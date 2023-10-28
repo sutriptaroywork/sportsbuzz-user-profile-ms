@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"name": "sb11-node-backend",
+			"path": "../sb11-node-backend"
+		},
+		{
+			"name": "sb11-backend-ms-boilerplate",
+			"path": "../sb11-backend-ms-boilerplate"
+		},
+		{
+			"name": "nest-js-boilerplate",
+			"path": "../nest-js-boilerplate"
+		},
+		{
+			"name": "user-profile-microservice-2",
+			"path": "."
+		},
+		{
+			"name": "user-profile-microservice",
+			"path": "../user-profile-microservice"
+		},
+		{
+			"name": "sb11-backend-ms-spot-service",
+			"path": "../sb11-backend-ms-spot-service"
+		},
+		{
+			"name": "sb11-backend-ms-boilerplate-2",
+			"path": "../sb11-backend-ms-boilerplate-2"
+		},
+		{
+			"name": "via-backend-boilerplate",
+			"path": "../via-backend-boilerplate"
+		},
+		{
+			"name": "via-backend-private-packages",
+			"path": "../via-backend-private-packages"
+		},
+		{
+			"path": "../base-project"
+		},
+		{
+			"path": "../base-package"
+		},
+		{
+			"path": "../krish_project"
+		}
+	],
+	"settings": {}
+}
